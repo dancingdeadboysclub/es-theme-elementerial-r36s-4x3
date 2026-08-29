@@ -5,11 +5,11 @@ This is an optimized and fixed version of the [Elementerial theme](https://githu
 ---
 
 ## 📸 Screenshots
+### Screenshots taken on ArkOS-R3XS
 
-<!-- Insira as URLs ou caminhos das suas imagens abaixo. Exemplo: ![Menu Principal](caminho/para/imagem.png) -->
-<br> https://x02.me/i/3649.webp
-<br> https://x02.me/i/VKTT.webp
-<br> https://x02.me/i/VGHP9.webp
+| Main Menu | Ports using "video-view" | Detailed view |
+| :---: | :---: | :---: |
+| ![Main Menu](https://x02.me/i/3649.webp) | ![Port-view-Sonic4Episode2](https://x02.me/i/VKTT.webp) | ![Detailed View](https://x02.me/i/VGHP9.webp) |
 
 ---
 
@@ -20,7 +20,7 @@ The original theme experiences several visual issues when used on 4:3 screens (c
 **Main fixes include:**
 - Corrected transparency issues.
 - Fixed the help bar going off the screen.
-- FFixed the battery and clock icons not showing properly.
+- Fixed the battery and clock icons not showing properly.
 - Various other minor UI tweaks.
 
 *For more information on the base theme, please visit the [original repository](https://github.com/mluizvitor/es-theme-elementerial).*
