@@ -1,38 +1,48 @@
-# Elementerial 4:3 Aspect Ratio Fix
+# 🎮 Elementerial 4:3 Aspect Ratio Fix
 
-Elementerial is a theme built by https://github.com/mluizvitor
+This is an optimized and fixed version of the [Elementerial theme](https://github.com/mluizvitor/es-theme-elementerial) built by [mluizvitor](https://github.com/mluizvitor), specifically targeting **ArkOS / dArkOS / dArkOSen** systems.
 
-This is an edit of his theme, which specifically targets ArkOS/dArkOS/dArkOSen systems.
+---
 
-Why does this exist? The theme is coupled with issues, such as transparency issues, help bar going off the screen, battery icon and clock icon not showing properly, and many others. If you wish to see for yourself, please do check the original repository.
-(https://github.com/mluizvitor/es-theme-elementerial)
+## 📸 Screenshots
 
-I'd like to point out that this is mainly focused on fixing the theme for "4:3" screens, found in R36S, R36H... And lots of RK3226 handhelds running dArkOS/ArkOS.
+<!-- Insira as URLs ou caminhos das suas imagens abaixo. Exemplo: ![Menu Principal](caminho/para/imagem.png) -->
+<br> https://x02.me/i/3649.webp
+<br> https://x02.me/i/VKTT.webp
+<br> https://x02.me/i/VGHP9.webp
 
+---
 
-> This theme supports custom backgrounds. Read [CUSTOMBG.md](CUSTOMBG.md) for more details.
-> 
-> For more info on this, please go to the main theme's repository.
-> https://github.com/mluizvitor/es-theme-elementerial
-> 
-> 
-> 
->  
+## ❓ Why does this exist?
 
+The original theme experiences several visual issues when used on 4:3 screens (commonly found in RK3326 handhelds like the R36S and R36H). This edit focuses strictly on fixing those issues for a seamless experience. 
 
-<br>
+**Main fixes include:**
+- Corrected transparency issues.
+- Fixed the help bar going off the screen.
+- FFixed the battery and clock icons not showing properly.
+- Various other minor UI tweaks.
 
-# Last changes
-```
-- Some extra systems on ArkOS4Clones now have icons/backgrounds.
-```
+*For more information on the base theme, please visit the [original repository](https://github.com/mluizvitor/es-theme-elementerial).*
 
+## ⚙️ Compatibility
 
-<br>
+Elementerial was fixed and optimized exclusively for the following resolution:
+- **640x480 (4:3 aspect ratio)**
 
-# Compatibility
+**Tested successfully on:**
+- R36H (running dArkOS)
+- ArkOS-R3XS
+- ArkOS4Clones
+- dArkOSen
 
-Elementerial was fixed for the following resolution:
-- **640x480** (4:3 screen ratio), tested on R36H running dArkOS, ArkOS-R3XS and ArkOS4Clones
+> ⚠️ **Note:** While it's possible to use this theme in other resolutions and systems based on EmulationStation, full compatibility is not guaranteed. This fix was built with ONE specific aspect ratio in mind.
 
-\* It's possible to use this theme in other resolutions and systems based on EmulationStation, however full compatibility is not guaranteed at all. This was made with ONE specific aspect ratio in mind.
+## 🎨 Custom Backgrounds
+
+This theme supports custom backgrounds. 
+📖 Please read [CUSTOMBG.md](CUSTOMBG.md) for detailed instructions on how to set them up.
+
+## 🔄 Last Changes
+
+- **(d)ArkOS4Clones Update:** Some extra systems now have proper icons and backgrounds.
