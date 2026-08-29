@@ -7,9 +7,13 @@ This is an optimized and fixed version of the [Elementerial theme](https://githu
 ## 📸 Screenshots
 ### Screenshots taken on ArkOS-R3XS
 
-| Main Menu | Ports using "video-view" | Detailed view |
-| :---: | :---: | :---: |
-| ![Main Menu](https://x02.me/i/3649.webp) | ![Port-view-Sonic4Episode2](https://x02.me/i/VKTT.webp) | ![Detailed View](https://x02.me/i/VGHP9.webp) |
+| Main Menu | Detailed view |
+| :---: | :---: |
+| ![Main Menu](https://x02.me/i/3649.webp) | ![Detailed View](https://x02.me/i/VGHP9.webp) |
+
+| Ports using video view | GBA video view |
+| :---: | :---: |
+| ![Port-view-Sonic4Episode2](https://x02.me/i/VKTT.webp) | ![GBA-Video-View](https://x02.me/i/BZV53.webp) |
 
 ---
 
