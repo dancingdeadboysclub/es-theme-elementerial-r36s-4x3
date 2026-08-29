@@ -43,6 +43,22 @@ Elementerial was fixed and optimized exclusively for the following resolution:
 This theme supports custom backgrounds. 
 📖 Please read [CUSTOMBG.md](CUSTOMBG.md) for detailed instructions on how to set them up.
 
+## 🖼️ Port Images
+
+To help you add images for Ports, I have included a `port-images.zip` file in the repository as a demonstration.
+
+If you want to create your own images—just like the ones included in the file—you must follow this naming convention in the folder:
+- `[Game Name]-marquee.png` (for the logo)
+- `[Game Name].png` (for the background)
+
+*Example:*
+- `Undertale-marquee.png`
+- `Undertale.png`
+
+> ⚠️ **Important:** For this to work, you must enable **"Search For Local Art"** in EmulationStation's advanced settings.
+
+> 💡 **Tip:** To achieve the same look as the demonstration images, set the view style for ports to **"Video"**.
+
 ## 🔄 Last Changes
 
 - **(d)ArkOS4Clones Update:** Some extra systems now have proper icons and backgrounds.
