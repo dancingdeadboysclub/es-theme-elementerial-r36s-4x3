@@ -2,7 +2,7 @@
 
 Elementerial is a theme built by https://github.com/mluizvitor
 
-This is an edit of his theme, which specifically targets ArkOS/dArkOS systems.
+This is an edit of his theme, which specifically targets ArkOS/dArkOS/dArkOSen systems.
 
 Why does this exist? The theme is coupled with issues, such as transparency issues, help bar going off the screen, battery icon and clock icon not showing properly, and many others. If you wish to see for yourself, please do check the original repository.
 (https://github.com/mluizvitor/es-theme-elementerial)
