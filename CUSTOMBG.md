@@ -4,7 +4,7 @@ To use custom background you need to load your own images inside `customBackgrou
 
 For example: If you want to add a custom background for **Sega Genesis**, the image need to be renamed as `genesis.png`, for **Final Burn Neo**, `fbn.png`. If you want only one background for the whole theme, name your image as `general.png`. Elementerial accept images in `PNG` (.png), `JPEG` (.jpeg .jpg) and `WEBP` (.webp) formats.
 
-Please, use the images inside [assets/systems/](assets/systems/) as a reference.
+Please, use the images inside 'assets/systems/' as a reference.
 
 After placing your images inside `customBackground`, enable custom backgrounds in your device settings.
 On AmberELEC, press `Start` to open system menu > Navigate to `UI Settings` > Change `Theme Set` to **es-theme-elementerial** > `Theme Configuration` > Change `Theme Background` to `Custom`. Exit to apply changes.
