@@ -33,6 +33,7 @@ The original theme experiences several visual issues when used on 4:3 screens (c
 
 Elementerial was fixed and optimized exclusively for the following resolution:
 - **640x480 (4:3 aspect ratio)**
+- Future aspect ratios will be worked on.
 
 **Tested successfully on:**
 - R36H (running dArkOS)
