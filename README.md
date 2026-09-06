@@ -66,3 +66,4 @@ If you want to create your own images—just like the ones included in the file�
 ## 🔄 Last Changes
 
 - **(d)ArkOS4Clones Update:** Some extra systems now have proper icons and backgrounds.
+- Pymo has been added.
